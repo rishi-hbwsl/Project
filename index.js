@@ -1,0 +1,1 @@
+document.getElementsByClassName('grid')[0].style.display = 'none';

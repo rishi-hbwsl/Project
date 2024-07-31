@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    color: thistle;
+}
+
+.git{
+    display: flex;
+    justify-content: center;
+    align-self:center;
+    
+}
+text{
+    color:blue;
+    size: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
